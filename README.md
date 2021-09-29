@@ -1,2 +1,2 @@
-# newActivityEmjoiInterpreter
+# activityInterpreter
 Created with CodeSandbox
